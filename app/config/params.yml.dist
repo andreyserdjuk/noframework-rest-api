@@ -1,0 +1,5 @@
+app:
+    users:
+        -
+            username: test
+            password: test
