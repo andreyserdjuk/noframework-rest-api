@@ -23,7 +23,6 @@ curl -v --user test:test 'http://127.0.0.1:8000/app.php/books/'
 curl -v --user test:test 'http://127.0.0.1:8000/app.php/nonexistent/' 
 ```
 ## TESTS
-Tests - only example. 
 ```bash
 php ./tests/test.php
 ```
